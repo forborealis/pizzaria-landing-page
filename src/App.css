@@ -189,6 +189,7 @@ nav {
 }
 .contact-form-container input {
   flex: 1;
+  background-color: #FCFAEE;
   height: 100%;
   border: none;
   outline: none;
